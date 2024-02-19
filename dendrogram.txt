@@ -1,0 +1,19 @@
+--[dendrogram w/ 2 branches and 10 members at h = 6.43]
+  |--[dendrogram w/ 2 branches and 2 members at h = 4.58]
+  |  |--leaf "Gene9" ( value.Gene9 = -0.702, x = 0.5 )
+  |  `--leaf "Gene3" ( value.Gene3 = -0.407, x = 1.5 )
+  `--[dendrogram w/ 2 branches and 8 members at h = 5.87]
+     |--[dendrogram w/ 2 branches and 5 members at h = 4.09]
+     |  |--[dendrogram w/ 2 branches and 3 members at h = 3.46]
+     |  |  |--leaf "Gene4" ( value.Gene4 = -0.359, x = 2.5 )
+     |  |  `--[dendrogram w/ 2 branches and 2 members at h = 2.48]
+     |  |     |--leaf "Gene2" ( value.Gene2 = -0.261, x = 3.5 )
+     |  |     `--leaf "Gene8" ( value.Gene8 = -0.202, x = 4.5 )
+     |  `--[dendrogram w/ 2 branches and 2 members at h = 3.08]
+     |     |--leaf "Gene7" ( value.Gene7 = 0.0947, x = 5.5 )
+     |     `--leaf "Gene5" ( value.Gene5 = 0.197, x = 6.5 )
+     `--[dendrogram w/ 2 branches and 3 members at h = 3.84]
+        |--[dendrogram w/ 2 branches and 2 members at h = 3.56]
+        |  |--leaf "Gene10" ( value.Gene10 = 0.183, x = 7.5 )
+        |  `--leaf "Gene6" ( value.Gene6 = 0.218, x = 8.5 )
+        `--leaf "Gene1" ( value.Gene1 = 0.346, x = 9.5 )
